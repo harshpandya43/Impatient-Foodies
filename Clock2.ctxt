@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Execute\ repeatedly.\r\n
+comment1.params=
+comment1.target=void\ updateTime()
+comment1.text=\r\n\ Update\ the\ hours,\ minutes\ and\ seconds\ fields.\r\n
+comment2.params=val
+comment2.target=java.lang.String\ getStr(int)
+comment2.text=\r\n\ Put\ a\ 0\ before\ the\ number\ if\ it's\ less\ than\ 10.\r\n
+comment3.params=
+comment3.target=void\ draw()
+comment3.text=\r\n\ Put\ a\ reasonable\ font\ on\ the\ image\ and\ draw\ it\ to\ the\ world.\r\n
+comment4.params=v
+comment4.target=void\ setFlag(int)
+comment5.params=
+comment5.target=void\ counter_reset()
+comment6.params=
+comment6.target=int\ return_curr_value()
+numComments=7

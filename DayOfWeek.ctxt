@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ HourChecker()
+comment0.text=\ HourChecker\ returns\ 1\ is\ the\ shift\ is\ morning\ and\ 0\ otherwise\r\n\ Uses\ SimpleDateFormat\r\n
+comment1.params=
+comment1.target=int\ DayChecker()
+comment1.text=\r\n\ DayChecker\ returns\ 1\ if\ the\ day\ is\ a\ weekday\ and\ 0\ if\ it\ is\ a\ weekend\r\n\ Uses\ Calender\ Class\r\n
+numComments=2

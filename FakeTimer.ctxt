@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=startValue
+comment0.target=FakeTimer(int)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ timerStart()
+comment3.params=time
+comment3.target=void\ setTime(int)
+comment4.params=
+comment4.target=void\ repaint()
+comment5.params=v
+comment5.target=void\ setFlagcd(int)
+numComments=6

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ DayChecker()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ floor.\r\n\ \r\n
+comment1.params=
+comment1.target=floor()
+comment2.params=seater
+comment2.target=int\ seater(int)
+comment2.text=Calculates\ approximate\ time\ from\ the\ passed\ parameter\ using\ Median\ value\ of\ Normal\ Distribution
+numComments=3

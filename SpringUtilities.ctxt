@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=c
+comment0.target=void\ printSizes(java.awt.Component)
+comment0.text=\r\n\ A\ debugging\ utility\ that\ prints\ to\ stdout\ the\ component's\r\n\ minimum,\ preferred,\ and\ maximum\ sizes.\r\n
+comment1.params=parent\ rows\ cols\ initialX\ initialY\ xPad\ yPad
+comment1.target=void\ makeGrid(java.awt.Container,\ int,\ int,\ int,\ int,\ int,\ int)
+comment1.text=\r\n\ Aligns\ the\ first\ <code>rows</code>\ *\ <code>cols</code>\r\n\ components\ of\ <code>parent</code>\ in\r\n\ a\ grid.\ Each\ component\ is\ as\ big\ as\ the\ maximum\r\n\ preferred\ width\ and\ height\ of\ the\ components.\r\n\ The\ parent\ is\ made\ just\ big\ enough\ to\ fit\ them\ all.\r\n\r\n\ @param\ rows\ number\ of\ rows\r\n\ @param\ cols\ number\ of\ columns\r\n\ @param\ initialX\ x\ location\ to\ start\ the\ grid\ at\r\n\ @param\ initialY\ y\ location\ to\ start\ the\ grid\ at\r\n\ @param\ xPad\ x\ padding\ between\ cells\r\n\ @param\ yPad\ y\ padding\ between\ cells\r\n
+comment2.params=row\ col\ parent\ cols
+comment2.target=javax.swing.SpringLayout.Constraints\ getConstraintsForCell(int,\ int,\ java.awt.Container,\ int)
+comment2.text=Used\ by\ makeCompactGrid.
+comment3.params=parent\ rows\ cols\ initialX\ initialY\ xPad\ yPad
+comment3.target=void\ makeCompactGrid(java.awt.Container,\ int,\ int,\ int,\ int,\ int,\ int)
+comment3.text=\r\n\ Aligns\ the\ first\ <code>rows</code>\ *\ <code>cols</code>\r\n\ components\ of\ <code>parent</code>\ in\r\n\ a\ grid.\ Each\ component\ in\ a\ column\ is\ as\ wide\ as\ the\ maximum\r\n\ preferred\ width\ of\ the\ components\ in\ that\ column;\r\n\ height\ is\ similarly\ determined\ for\ each\ row.\r\n\ The\ parent\ is\ made\ just\ big\ enough\ to\ fit\ them\ all.\r\n\r\n\ @param\ rows\ number\ of\ rows\r\n\ @param\ cols\ number\ of\ columns\r\n\ @param\ initialX\ x\ location\ to\ start\ the\ grid\ at\r\n\ @param\ initialY\ y\ location\ to\ start\ the\ grid\ at\r\n\ @param\ xPad\ x\ padding\ between\ cells\r\n\ @param\ yPad\ y\ padding\ between\ cells\r\n
+numComments=4
